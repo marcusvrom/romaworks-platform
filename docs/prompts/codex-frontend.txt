@@ -1,0 +1,9 @@
+Generate Angular components for a SaaS dashboard.
+
+Requirements:
+
+- mobile-first
+- Angular Material
+- JWT authentication
+- API integration
+- clean architecture

@@ -1,0 +1,14 @@
+Act as a senior software reviewer.
+
+Review the code considering:
+
+- multi-tenancy safety
+- security
+- architecture
+- maintainability
+- performance
+
+Identify:
+- bugs
+- risks
+- improvements

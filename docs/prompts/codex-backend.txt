@@ -1,0 +1,10 @@
+Generate backend code for a NestJS SaaS application.
+
+Requirements:
+
+- multi-tenant
+- tenant_id UUID
+- tenant from JWT
+- modular architecture
+- DTO validation
+- clean code
